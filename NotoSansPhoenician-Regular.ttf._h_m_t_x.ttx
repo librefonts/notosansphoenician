@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<ttFont ttLibVersion="2.4">
+
+  <hmtx>
+    <mtx name=".notdef" width="1024" lsb="102"/>
+    <mtx name="glyph00004" width="1680" lsb="80"/>
+    <mtx name="glyph00005" width="1276" lsb="80"/>
+    <mtx name="glyph00006" width="1185" lsb="30"/>
+    <mtx name="glyph00007" width="1344" lsb="100"/>
+    <mtx name="glyph00008" width="1445" lsb="100"/>
+    <mtx name="glyph00009" width="1276" lsb="35"/>
+    <mtx name="glyph00010" width="1329" lsb="140"/>
+    <mtx name="glyph00011" width="1317" lsb="150"/>
+    <mtx name="glyph00012" width="1636" lsb="150"/>
+    <mtx name="glyph00013" width="1245" lsb="120"/>
+    <mtx name="glyph00014" width="1204" lsb="100"/>
+    <mtx name="glyph00015" width="1081" lsb="80"/>
+    <mtx name="glyph00016" width="1561" lsb="60"/>
+    <mtx name="glyph00017" width="1079" lsb="80"/>
+    <mtx name="glyph00018" width="1284" lsb="140"/>
+    <mtx name="glyph00019" width="1492" lsb="160"/>
+    <mtx name="glyph00020" width="1126" lsb="100"/>
+    <mtx name="glyph00021" width="1561" lsb="80"/>
+    <mtx name="glyph00022" width="1380" lsb="120"/>
+    <mtx name="glyph00023" width="1245" lsb="100"/>
+    <mtx name="glyph00024" width="1538" lsb="60"/>
+    <mtx name="glyph00025" width="1511" lsb="200"/>
+    <mtx name="glyph00026" width="822" lsb="220"/>
+    <mtx name="glyph00027" width="1384" lsb="92"/>
+    <mtx name="glyph00028" width="1084" lsb="85"/>
+    <mtx name="glyph00029" width="1455" lsb="40"/>
+    <mtx name="glyph00030" width="1232" lsb="220"/>
+    <mtx name="glyph00031" width="1602" lsb="220"/>
+    <mtx name="glyph00032" width="508" lsb="100"/>
+    <mtx name="uni000D" width="1044" lsb="0"/>
+    <mtx name="uni00A0" width="532" lsb="0"/>
+    <mtx name="uniFEFF" width="0" lsb="0"/>
+  </hmtx>
+
+</ttFont>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<ttFont ttLibVersion="2.4">
+
+  <cmap>
+    <tableVersion version="0"/>
+    <cmap_format_4 platformID="3" platEncID="1" language="0">
+      <map code="0x0" name="uniFEFF"/><!-- &lt;control> -->
+      <map code="0xd" name="uni000D"/><!-- &lt;control> -->
+      <map code="0x20" name="uni00A0"/><!-- SPACE -->
+      <map code="0xa0" name="uni00A0"/><!-- NO-BREAK SPACE -->
+      <map code="0xfeff" name="uniFEFF"/><!-- ZERO WIDTH NO-BREAK SPACE -->
+    </cmap_format_4>
+    <cmap_format_12 platformID="3" platEncID="10" format="12" reserved="0" length="100" language="0" nGroups="7">
+      <map code="0x0" name="uniFEFF"/><!-- &lt;control> -->
+      <map code="0xd" name="uni000D"/><!-- &lt;control> -->
+      <map code="0x20" name="uni00A0"/><!-- SPACE -->
+      <map code="0xa0" name="uni00A0"/><!-- NO-BREAK SPACE -->
+      <map code="0xfeff" name="uniFEFF"/><!-- ZERO WIDTH NO-BREAK SPACE -->
+      <map code="0x10900" name="glyph00004"/><!-- PHOENICIAN LETTER ALF -->
+      <map code="0x10901" name="glyph00005"/><!-- PHOENICIAN LETTER BET -->
+      <map code="0x10902" name="glyph00006"/><!-- PHOENICIAN LETTER GAML -->
+      <map code="0x10903" name="glyph00007"/><!-- PHOENICIAN LETTER DELT -->
+      <map code="0x10904" name="glyph00008"/><!-- PHOENICIAN LETTER HE -->
+      <map code="0x10905" name="glyph00009"/><!-- PHOENICIAN LETTER WAU -->
+      <map code="0x10906" name="glyph00010"/><!-- PHOENICIAN LETTER ZAI -->
+      <map code="0x10907" name="glyph00011"/><!-- PHOENICIAN LETTER HET -->
+      <map code="0x10908" name="glyph00012"/><!-- PHOENICIAN LETTER TET -->
+      <map code="0x10909" name="glyph00013"/><!-- PHOENICIAN LETTER YOD -->
+      <map code="0x1090a" name="glyph00014"/><!-- PHOENICIAN LETTER KAF -->
+      <map code="0x1090b" name="glyph00015"/><!-- PHOENICIAN LETTER LAMD -->
+      <map code="0x1090c" name="glyph00016"/><!-- PHOENICIAN LETTER MEM -->
+      <map code="0x1090d" name="glyph00017"/><!-- PHOENICIAN LETTER NUN -->
+      <map code="0x1090e" name="glyph00018"/><!-- PHOENICIAN LETTER SEMK -->
+      <map code="0x1090f" name="glyph00019"/><!-- PHOENICIAN LETTER AIN -->
+      <map code="0x10910" name="glyph00020"/><!-- PHOENICIAN LETTER PE -->
+      <map code="0x10911" name="glyph00021"/><!-- PHOENICIAN LETTER SADE -->
+      <map code="0x10912" name="glyph00022"/><!-- PHOENICIAN LETTER QOF -->
+      <map code="0x10913" name="glyph00023"/><!-- PHOENICIAN LETTER ROSH -->
+      <map code="0x10914" name="glyph00024"/><!-- PHOENICIAN LETTER SHIN -->
+      <map code="0x10915" name="glyph00025"/><!-- PHOENICIAN LETTER TAU -->
+      <map code="0x10916" name="glyph00026"/><!-- PHOENICIAN NUMBER ONE -->
+      <map code="0x10917" name="glyph00027"/><!-- PHOENICIAN NUMBER TEN -->
+      <map code="0x10918" name="glyph00028"/><!-- PHOENICIAN NUMBER TWENTY -->
+      <map code="0x10919" name="glyph00029"/><!-- PHOENICIAN NUMBER ONE HUNDRED -->
+      <map code="0x1091a" name="glyph00030"/><!-- PHOENICIAN NUMBER TWO -->
+      <map code="0x1091b" name="glyph00031"/><!-- PHOENICIAN NUMBER THREE -->
+      <map code="0x1091f" name="glyph00032"/><!-- PHOENICIAN WORD SEPARATOR -->
+    </cmap_format_12>
+  </cmap>
+
+</ttFont>
