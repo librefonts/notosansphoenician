@@ -1,0 +1,24 @@
+{
+  "name": "Noto Sans Phoenician",
+  "designer": "Monotype Design team",
+  "license": "",
+  "visibility": "Sandbox",
+  "category": "monospace",
+  "size": 5535,
+  "fonts": [
+    {
+      "name": "Noto Sans Phoenician",
+      "style": "normal",
+      "weight": 400,
+      "filename": "NotoSansPhoenician-Regular.ttf",
+      "postScriptName": "NotoSansPhoenician",
+      "fullName": "Noto Sans Phoenician",
+      "copyright": "Copyright 2012 Google Inc. All Rights Reserved."
+    }
+  ],
+  "subsets": [
+    "latin",
+    "menu"
+  ],
+  "dateAdded": "2014-10-06"
+}
